@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KitekExprimenter
 - 👀 I’m interested in creating programs/arduino/esp32
 - 🌱 I’m currently learning C launguage
-- 📫 How to reach me mamajoe9.11@gmail.com
+- 📫 How to reach me: mamajoe9.11@gmail.com
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: Firefox logo is red panda
